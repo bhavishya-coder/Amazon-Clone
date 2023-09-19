@@ -1,1 +1,1 @@
-# this is a clone of amazon home page. 
+# Wanna see the result : https://bhavishya-coder.github.io/Amazon-Clone/
