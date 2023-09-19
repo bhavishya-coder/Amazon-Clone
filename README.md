@@ -1,1 +1,1 @@
-# Amazon-Clone
+# this is a clone of amazon home page. 
